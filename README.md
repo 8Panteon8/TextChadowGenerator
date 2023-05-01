@@ -1,4 +1,4 @@
-# TextChadowGenerator
+# [Text Chadow Generator](https://8panteon8.github.io/TextChadowGenerator/)
 
 
 The JS code sets the default values for the text shadow and the function cssShadow takes in the user input and applies it to the text-shadow CSS property of the header element, as well as updating the color values displayed in the third column. The input event listener waits for changes in user input and calls the cssShadow function with the new input values.
